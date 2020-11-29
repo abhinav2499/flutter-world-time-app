@@ -1,6 +1,12 @@
-# world_time
+## world_time App
 
-A new Flutter application.
+A new Flutter application which shows the current time of location provided by the user.
+
+<p float = "left">
+  <img src="https://github.com/abhinav2499/flutter-world-time-app/blob/master/screenshot-2020-11-29_22.23.31.396.png" width="250"/>
+  <img src="https://github.com/abhinav2499/flutter-world-time-app/blob/master/screenshot-2020-11-29_22.26.15.368.png" width="250"/>
+  <img src="https://github.com/abhinav2499/flutter-world-time-app/blob/master/screenshot-2020-11-29_22.25.53.553.png" width="250"/>
+ </p>
 
 ## Getting Started
 
